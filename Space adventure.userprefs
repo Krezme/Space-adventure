@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{2408E178-759D-62DF-9281-15F83F6C3514}|Unit Tests">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BgMover.cs">
+    <Files>
+      <File FileName="..\Text101\Assets\TextController.cs" Line="40" Column="17" />
+      <File FileName="Assets\Script\PlayerController.cs" Line="21" Column="3" />
+      <File FileName="Assets\Script\GameController.cs" Line="26" Column="60" />
+      <File FileName="Assets\Script\BgMover.cs" Line="20" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
